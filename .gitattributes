@@ -1,0 +1,14 @@
+build/unknown-Debug/pit_autogen/EWIEGA46WW/qrc_img.cpp filter=lfs diff=lfs merge=lfs -text
+.png filter=lfs diff=lfs merge=lfs -text
+.c filter=lfs diff=lfs merge=lfs -text
+.idx filter=lfs diff=lfs merge=lfs -text
+cmake filter=lfs diff=lfs merge=lfs -text
+.cpp filter=lfs diff=lfs merge=lfs -text
+/home/oyoy/QtFile/pit/build/unknown-Debug/pit_autogen/EWIEGA46WW/qrc_img.cpp filter=lfs diff=lfs merge=lfs -text
+*cpp filter=lfs diff=lfs merge=lfs -text
+png filter=lfs diff=lfs merge=lfs -text
+*.cpp filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+[[:space:]]build/unknown-MinSizeRel/pit_autogen/EWIEGA46WW/qrc_img.cpp filter=lfs diff=lfs merge=lfs -text
+build/unknown-MinSizeRel/pit_autogen/EWIEGA46WW/qrc_img.cpp filter=lfs diff=lfs merge=lfs -text
+/home/oyoy/QtFile/pit/build/unknown-RelWithDebInfo/pit_autogen/EWIEGA46WW/qrc_img.cpp filter=lfs diff=lfs merge=lfs -text

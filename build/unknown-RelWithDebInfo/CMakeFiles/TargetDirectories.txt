@@ -1,0 +1,9 @@
+/home/oyoy/QtFile/pit/build/unknown-RelWithDebInfo/CMakeFiles/pit.dir
+/home/oyoy/QtFile/pit/build/unknown-RelWithDebInfo/CMakeFiles/edit_cache.dir
+/home/oyoy/QtFile/pit/build/unknown-RelWithDebInfo/CMakeFiles/rebuild_cache.dir
+/home/oyoy/QtFile/pit/build/unknown-RelWithDebInfo/CMakeFiles/list_install_components.dir
+/home/oyoy/QtFile/pit/build/unknown-RelWithDebInfo/CMakeFiles/install.dir
+/home/oyoy/QtFile/pit/build/unknown-RelWithDebInfo/CMakeFiles/install/local.dir
+/home/oyoy/QtFile/pit/build/unknown-RelWithDebInfo/CMakeFiles/install/strip.dir
+/home/oyoy/QtFile/pit/build/unknown-RelWithDebInfo/CMakeFiles/pit_autogen_timestamp_deps.dir
+/home/oyoy/QtFile/pit/build/unknown-RelWithDebInfo/CMakeFiles/pit_autogen.dir

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/pit.dir/pit_autogen/mocs_compilation.cpp.o CMakeFiles/pit.dir/main.cpp.o CMakeFiles/pit.dir/widget.cpp.o CMakeFiles/pit.dir/pit_autogen/EWIEGA46WW/qrc_img.cpp.o -o pit  /usr/lib/libQt6Widgets.so.6.7.2 /usr/lib/libQt6Gui.so.6.7.2 /usr/lib/libQt6Core.so.6.7.2 /usr/lib/libGLX.so /usr/lib/libOpenGL.so
